@@ -2,4 +2,4 @@
 
 START 為開始計時  STOP 為停止計時  再次按START會歸0並重新開始計時   RESET 則是直接歸0
 
-![image]()
+![image](https://github.com/keys-lll/MyStopWatch/blob/main/Screenshot_20240117_161059.png)
